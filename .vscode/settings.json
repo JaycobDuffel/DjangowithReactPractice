@@ -1,4 +1,4 @@
 {
-  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8",
+  "python.pythonPath": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/Resources/Python.app/Contents/MacOS/Python",
   "python.formatting.provider": "black"
 }
